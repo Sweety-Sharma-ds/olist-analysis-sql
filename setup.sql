@@ -1,0 +1,15 @@
+CREATE DATABASE ecommerce;
+use ecommerce;
+show TABLES;
+CREATE TABLE customers ( customer_id VARCHAR(50), customer_unique_id VARCHAR(50), customer_city VARCHAR(100), customer_state VARCHAR(100));
+CREATE TABLE orders ( order_id VARCHAR(50), customer_id VARCHAR(50), order_status VARCHAR(20), order_purchase_timestamp DATETIME, order_approved_at DATETIME, order_delivered_carrier_date DATETIME, order_delivered_customer_date DATETIME, order_estimated_delivery_date DATETIME);
+CREATE TABLE products (product_id VARCHAR(50), product_catyegory_name VARCHAR(100), product_name_length INT, product_description_length INT, products_photos_quantity INT,product_weight_g INT, product_length_cm INT, product_height_cm INT, product_width_cm INT);
+CREATE TABLE payments ( order_id VARCHAR(50), payment_sequential INT, payment_type VARCHAR(20), payment_installment INT, payment_value DECIMAL(10,2));
+CREATE TABLE order_items (order_id varchar(50) ,product_id varchar(50) ,order_item_id int ,seller_id varchar(50), price decimal(10,2), freight_value decimal(10,2));
+SELECT * FROM orders LIMIT 5;
+USE ecommerce;
+select count(*) from customers;
+select count(*) from orders;
+select count(*) from products;
+select count(*) from payments;
+select count(*) from orders_items;

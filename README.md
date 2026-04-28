@@ -24,17 +24,21 @@ Covers revenue, customer behaviour, product categories, and delivery performance
 - Total revenue: R$ 16,008,872 across 96,460 orders
 - Average order value: R$ 153
 - Top 10 customers contributed only 0.42% of total revenue — no whale customers
+  
 **Customer Retention**
 - 97% of customers purchased exactly once and never returned
 - Near-zero repeat purchase rate — critical retention problem
+  
 **Product Categories**
 - Health & Beauty generated the highest total revenue (R$ 1.25M)
 - PCs had the highest average order value at R$ 1,098 — 7x the overall average
 - High-value categories like PCs had very low order volume (203 orders) — untapped potential
+
 **Delivery**
 - Average delivery time: 12.5 days
 - Worst delivery: 210 days — extreme outlier with no SLA enforcement
 - 2,965 orders never reached the customer
+
 **Geography**
 - São Paulo alone = 36% of total revenue with the fastest delivery (8.7 days)
 - RJ and BA ranked top 7 in revenue but had 13–14% late delivery rates

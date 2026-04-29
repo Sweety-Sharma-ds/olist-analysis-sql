@@ -78,7 +78,18 @@ Covers revenue, customer behaviour, product categories, and delivery performance
  
 ## Tools
 MySQL Workbench 
+---
+## 📊 Interactive Dashboard
 
+This project also includes a Tableau dashboard for visual analysis:
+
+👉 [View Tableau Dashboard Repository](https://github.com/Sweety-Sharma-ds)
+
+The dashboard covers:
+- Revenue trends
+- Customer retention
+- Delivery performance
+- State-wise insights
 ## Author
  
 **[Sweety Sharma]**  

@@ -55,7 +55,15 @@ Covers revenue, customer behaviour, product categories, and delivery performance
 - HAVING to filter statistically insignificant groups
 - NULLIF to prevent divide-by-zero errors
 ---
- 
+
+ ## 📈 Business Recommendations
+
+- Improve customer retention through loyalty programs and targeted marketing campaigns
+- Expand operations in underperforming states to reduce geographic dependency
+- Optimize delivery timelines to enhance customer satisfaction and repeat purchases
+- Focus on high-performing categories (Beauty, Home) for revenue growth
+
+   
 ## Files
 | File | Description |
 |------|-------------|

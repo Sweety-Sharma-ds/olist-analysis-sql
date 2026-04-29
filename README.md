@@ -70,3 +70,12 @@ Covers revenue, customer behaviour, product categories, and delivery performance
  
 ## Tools
 MySQL Workbench 
+
+## Author
+ 
+**[Sweety Sharma]**  
+[sweetyy955@gmail.com]
+ 
+---
+
+⭐ If you found this useful, feel free to star the repo!

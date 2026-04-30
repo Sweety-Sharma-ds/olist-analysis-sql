@@ -83,7 +83,7 @@ MySQL Workbench
 
 This project also includes a Tableau dashboard for visual analysis:
 
-👉 [View Tableau Dashboard Repository](https://github.com/Sweety-Sharma-ds)
+👉 [View Tableau Dashboard Repository](https://github.com/Sweety-Sharma-ds/olist-analysis-dashboard.git)
 
 The dashboard covers:
 - Revenue trends
